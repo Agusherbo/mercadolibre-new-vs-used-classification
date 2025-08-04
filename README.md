@@ -8,6 +8,8 @@ Este proyecto aborda el desafío de Mercado Libre de construir un modelo de Mach
 
 ```
 mercadolibre-new-vs-used-classification/
+
+├── Assets/
 ├── DataSets/
 │   └── MLA_100k_train_32_fields.xlsx
 ├── Diccionario de datos/
