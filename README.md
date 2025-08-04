@@ -8,24 +8,24 @@ Este proyecto aborda el desafío de Mercado Libre de construir un modelo de Mach
 
 ```
 mercadolibre-new-vs-used-classification/
-├── README.md
-├── requirements.txt
-├── Raw_data/
-│   └── MLA_100k_checked_v3.jsonlines
-│   └── new_or_used.py
 ├── DataSets/
 │   └── MLA_100k_train_32_fields.xlsx
+├── Diccionario de datos/
+│   └── Diccionarios.xlsx
+├── Informe/
+│     └── Informe Final.pdf
 ├── Notebooks/
 │   └── Notebook_Full_Project.ipynb
 │   └── Feature Criteria Selection
-├── Diccionario de datos/
-│   └── Diccionarios.xlsx
 ├── outputs/
 │   ├── classification_report.jpg
 │   ├── confusion_matrix.png
 │   └── feature_importance.png
-└── Informe/
-    └── Informe Final.pdf
+├── Raw_data/
+│   └── MLA_100k_checked_v3.jsonlines
+│   └── new_or_used.py
+├── README.md
+└── requirements.txt
 ```
 
 ## Cómo Ejecutar la Solución
