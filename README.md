@@ -1,4 +1,5 @@
-# Mercado Libre - New vs Used Item Classification
+# Mercado Libre - New vs Used Item Classification  
+<img src="Assets/ml_foto_1.png" alt="Mercado Libre" width="200"/> 
 
 ## Descripción
 
@@ -10,6 +11,7 @@ Este proyecto aborda el desafío de Mercado Libre de construir un modelo de Mach
 mercadolibre-new-vs-used-classification/
 
 ├── Assets/
+│   └── ml_foto_1
 ├── DataSets/
 │   └── MLA_100k_train_32_fields.xlsx
 ├── Diccionario de datos/
