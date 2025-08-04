@@ -48,6 +48,8 @@ pip install -r requirements.txt
 ```
 
 3. **Ejecutar el Notebook Principal:** Abrir el archivo `Notebook_Full_Project.ipynb` en JupyterLab o VSCode y seguir la secuencia de celdas.
+   
+4. `Notebook_Full_Project.ipynb` cuenta con un desarrollo completo del proyecto incluyendo EDA e interpretaciones del mismo. 
 
 ## Resultados Obtenidos
 
